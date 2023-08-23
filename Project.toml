@@ -1,0 +1,6 @@
+name = "Hiredis"
+uuid = "b602d61d-8564-4e44-9fbd-3fa22bd1775c"
+version = "0.1.0"
+
+[deps]
+hiredis_jll = "8830ad48-7ead-5d05-b3ac-3822a1a8e113"
